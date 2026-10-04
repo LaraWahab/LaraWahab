@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 82 36" width="82" height="36" role="img" aria-label="SQL"><style>
+.a1{opacity:0;animation:fade 1s ease-out .2s forwards}
+.a2{opacity:0;animation:rise 1.2s cubic-bezier(.2,.7,.2,1) .5s forwards;transform-box:fill-box}
+.a3{opacity:0;animation:fade 1.2s ease-out 2.6s forwards}
+.draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 1.6s ease-in-out 1.3s forwards}
+.late{animation-delay:2.1s}
+@keyframes fade{to{opacity:1}}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;stroke-dashoffset:0!important;transform:none!important}}
+</style>
+<rect x=".5" y=".5" width="81" height="35" fill="#FFFFFF" stroke="#D8DBDF"/><g fill="none" stroke="#151618" stroke-width="1.3"><ellipse cx="21" cy="13.5" rx="6" ry="2.5"/><path d="M15 13.5V22.5C15 26 27 26 27 22.5V13.5"/><path d="M15 18C15 21.3 27 21.3 27 18"/></g><path fill="#151618" d="M43 23.1Q41.1 23.1 39.9 22.2Q38.7 21.3 38.5 19.6H40.1Q40.2 20.7 41 21.3Q41.8 21.8 43.1 21.8Q44.1 21.8 44.7 21.4Q45.3 21 45.3 20.3Q45.3 19.6 44.9 19.2Q44.5 18.8 43.7 18.6L41.8 18Q40.4 17.5 39.7 16.8Q39
+16.1 39 15Q39 14.1 39.5 13.4Q40 12.8 40.8 12.4Q41.6 12 42.7 12Q44.5 12 45.5 12.9Q46.5 13.8 46.7 15.3H45.1Q44.9 14.3 44.3 13.8Q43.7 13.3 42.7 13.3Q41.7 13.3 41.1 13.7Q40.6 14.1 40.6 14.8Q40.6 15.4 40.9
+15.8Q41.3 16.1 42.2 16.4L44.1 17Q45.5 17.5 46.2 18.2Q46.8 19 46.8 20.1Q46.8 21.6 45.8 22.3Q44.8 23.1 43 23.1ZM53.3 23.1Q51.6 23.1 50.4 22.4Q49.2 21.7 48.5 20.5Q47.8 19.2 47.8 17.6Q47.8 15.9 48.5
+14.7Q49.2 13.4 50.4 12.7Q51.6 12.1 53.1 12.1Q54.7 12.1 55.8 12.7Q57 13.4 57.7 14.7Q58.4 15.9 58.4 17.6Q58.4 18.7 58 19.7Q57.6 20.7 56.9 21.4Q56.1 22.1 54.9 22.4ZM53.1 21.9Q54.2 21.9 55 21.3Q55.9 20.8
+56.3 19.8Q56.8 18.8 56.8 17.5Q56.8 16.3 56.3 15.4Q55.9 14.4 55 13.9Q54.2 13.4 53.1 13.4Q52 13.4 51.2 13.9Q50.4 14.4 49.9 15.4Q49.5 16.3 49.5 17.5Q49.5 18.8 49.9 19.8Q50.4 20.8 51.2 21.3Q52 21.9 53.1
+21.9ZM53.3 23.1 53.1 22.1 58.9 21.7V23Q57.9 23 57.3 23Q56.6 23 56 23.1Q55.4 23.1 54.8 23.1Q54.2 23.1 53.3 23.1ZM60.1 23V12.2H61.7V23ZM60.9 23V21.7H67.1V23Z"/>
+</svg>
