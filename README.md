@@ -99,6 +99,7 @@ Next comes the East Coast of the United States. New York City would make it a ho
 
 <a href="https://public.tableau.com/app/profile/lara.wahab"><picture><source media="(prefers-color-scheme: dark)" srcset="./link-tableau-dark.svg"><img alt="Tableau Public" src="./link-tableau-light.svg" height="36"></picture></a>
 <a href="https://www.kaggle.com/larawahab"><picture><source media="(prefers-color-scheme: dark)" srcset="./link-kaggle-dark.svg"><img alt="Kaggle" src="./link-kaggle-light.svg" height="36"></picture></a>
+<a href="https://www.upwork.com/freelancers/~0159cc33be83ab4ed4?mp_source=share"><picture><source media="(prefers-color-scheme: dark)" srcset="./link-upwork-dark.svg"><img alt="Upwork freelancer profile" src="./link-upwork-light.svg" height="36"></picture></a>
 <a href="https://www.credly.com/users/larawahab"><picture><source media="(prefers-color-scheme: dark)" srcset="./link-credly-dark.svg"><img alt="Credly" src="./link-credly-light.svg" height="36"></picture></a>
 
 <a href="https://www.larawahab.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./footer-dark.svg"><img alt="Lara Wahab. hi@larawahab.com, Articles, Resources." src="./footer-light.svg" width="100%"></picture></a>
