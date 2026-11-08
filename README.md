@@ -15,6 +15,12 @@ For a fuller account of what she has done so far, her website opens two ways.
 <a href="https://www.larawahab.com/candidate"><picture><source media="(prefers-color-scheme: dark)" srcset="./site-candidate-dark.svg"><img alt="The candidate: What I do, tools, skills and record." src="./site-candidate-light.svg" width="49%"></picture></a>
 <a href="https://www.larawahab.com/person"><picture><source media="(prefers-color-scheme: dark)" srcset="./site-person-dark.svg"><img alt="The person: Origins, background and free time." src="./site-person-light.svg" width="49%"></picture></a>
 
+### Currently building
+
+My next public case studies will connect **supply chain operations, business intelligence, and applied AI**. I am focusing on data quality, reproducible analysis, thoughtful interface design, and clear explanations of the decisions each project supports.
+
+**In development:** an operations analytics case study, a visually engaging BI dashboard, and an automation project. Each will be linked here with its data sources, assumptions, code, and verified results once published.
+
 <details>
 <summary><code>README</code> — <em>Me, in an hour</em></summary>
 
@@ -93,7 +99,7 @@ Next comes the East Coast of the United States. New York City would make it a ho
 
 <a href="https://public.tableau.com/app/profile/lara.wahab"><picture><source media="(prefers-color-scheme: dark)" srcset="./link-tableau-dark.svg"><img alt="Tableau Public" src="./link-tableau-light.svg" height="36"></picture></a>
 <a href="https://www.kaggle.com/larawahab"><picture><source media="(prefers-color-scheme: dark)" srcset="./link-kaggle-dark.svg"><img alt="Kaggle" src="./link-kaggle-light.svg" height="36"></picture></a>
-<a href="UPWORK-PROFILE-URL"><picture><source media="(prefers-color-scheme: dark)" srcset="./link-upwork-dark.svg"><img alt="Upwork" src="./link-upwork-light.svg" height="36"></picture></a>
+<a href="https://www.upwork.com/freelancers/~0159cc33be83ab4ed4?mp_source=share"><picture><source media="(prefers-color-scheme: dark)" srcset="./link-upwork-dark.svg"><img alt="Upwork freelancer profile" src="./link-upwork-light.svg" height="36"></picture></a>
 <a href="https://www.credly.com/users/larawahab"><picture><source media="(prefers-color-scheme: dark)" srcset="./link-credly-dark.svg"><img alt="Credly" src="./link-credly-light.svg" height="36"></picture></a>
 
 <a href="https://www.larawahab.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./footer-dark.svg"><img alt="Lara Wahab. hi@larawahab.com, Articles, Resources." src="./footer-light.svg" width="100%"></picture></a>
